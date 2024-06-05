@@ -1,0 +1,10 @@
+{
+    "redirects": [],
+    "headers": [],
+    "error_pages": {},
+    "rewrites": [
+        { "source": "/*", "destination": "/index.html" }
+    ],
+    "clean_urls": false,
+    "trailing_slash": false
+}
